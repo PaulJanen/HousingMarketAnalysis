@@ -1,0 +1,5 @@
+# This .gitignore file should be placed at the root of your project directory
+#
+
+# TD3 storage
+[Ss]cripts/tidal-nova-262216-a5a79d487ed9.json

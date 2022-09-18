@@ -1,0 +1,4 @@
+1. Sorted from min to max
+2. Filtered out negative values (greater than 0)
+3. Created pivot table that fillters out negative values and showcases averages. We can see that renting prices in palanga is much higher than in vilnius
+4. Create bar graph that shows avg rent and price in diff cities
